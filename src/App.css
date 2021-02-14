@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.img-cls {
+  margin: 10px;
+  border: 1px solid grey;
+  border-radius: 100%;
+}
+
